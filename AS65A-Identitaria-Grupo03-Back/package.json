@@ -1,0 +1,30 @@
+{
+  "name": "as65a-identitaria-grupo03-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graziele-Miranda/AS65A-Identitaria-Grupo03-Back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graziele-Miranda/AS65A-Identitaria-Grupo03-Back/issues"
+  },
+  "homepage": "https://github.com/Graziele-Miranda/AS65A-Identitaria-Grupo03-Back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mysql2": "^3.6.1",
+    "nodemon": "^3.0.1",
+    "sequelize": "^6.33.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}

@@ -1,0 +1,5 @@
+.actions-div {
+    display: flex;
+    width: 112px;
+    gap: 12px;
+}
